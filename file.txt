@@ -1,7 +1,7 @@
-1. sikod
-2. enang
-3. bless
-4. ebong
+1.Sikod
+2.Enang
+3. Bless
+4. Ebong
 5. maroline
-6.fred
-7. maeva
+6. Fred
+7. Maeva
